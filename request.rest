@@ -1,0 +1,8 @@
+POST http://127.0.0.1:8000/reminder
+Content-Type: application/json
+
+{
+    "date": "2023-10-01",
+    "time": "12:00",
+    "message": "attend the meeting"
+}
